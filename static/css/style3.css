@@ -443,7 +443,7 @@ h1, h2, h3, h4, h5, h6 {
   -webkit-transform: rotate(-1.7deg);
   -o-transform: rotate(-1.7deg);
   -moz-transform: rotate(-1.7deg);
-  background-color: #fff;
+ background-color: #fff;
   content: "";
   z-index: 3;
   display: inline-block;
